@@ -1,2 +1,2 @@
-||cdn.appnext.com^
-||api.appnxt.net^
+! Block all subdomains of taboola.com
+*.taboola.com^
