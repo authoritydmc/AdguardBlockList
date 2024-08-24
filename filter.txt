@@ -1,3 +1,2 @@
 ! Block all subdomains of taboola.com
 ||*.taboola.com^
-||
